@@ -1,0 +1,100 @@
+form{
+    margin-left:20px;
+}
+.name{
+ position:relative;
+ left:10px;
+}
+.username{
+    position:absolute;
+    left: 120px;
+    bottom: 0%;
+}
+.email{
+    position:relative;
+    left:10px;
+}
+.temail{
+    position:absolute;
+    left: 120px;
+    bottom: 0%;
+}
+.ps{
+    position: relative;
+    left:10px;
+}
+.password{
+    position:absolute;
+    left:120px;
+    bottom:0%;
+}
+.ps2{
+    position:relative;
+    left:10px;
+}
+.password2{
+    position:absolute;
+    left:120px;
+    bottom:0%;
+}
+.genderm{
+    position:relative;
+    left:10px;
+}
+.man{
+    position:absolute;
+    left:120px;
+    bottom:-17px;
+}
+.genderw{
+    position:absolute;
+    left:210px;
+    top:-17px;
+}
+.year{
+    position:relative;
+    left:10px;
+}
+.year1{
+    position:absolute;
+    left:120px;
+    bottom:0%;
+}
+.lesson{
+    position:relative;
+    left:10px;
+}
+.lesson1{
+    position:absolute;
+    left:120px;
+    bottom:0%;
+}
+.adres{
+    position:relative;
+    left:10px;
+}
+.adres1{
+    position:absolute;
+    left:120px;
+    bottom:-30px;
+}
+.check{
+    position:relative;
+    left:10px;
+}
+.checkbox{
+    position:absolute;
+    left:10px;
+    top:10px;
+}
+.button{
+    position:relative;
+    left:10px;
+}
+.butt{
+    position:absolute;
+    left:65px;
+    top: 55px;
+}
+
+
